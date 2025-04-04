@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-)53v5^)(9@zsvfqkp^r@%p28vq*91=*b64$#g%&elh3h@)$@1&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://web-hr4y7pejxpth.up-de-fra1-k8s-1.apps.run-on-seenode.com','*']
 
 
 # Application definition
